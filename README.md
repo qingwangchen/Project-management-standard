@@ -31,6 +31,7 @@ The name of your project folder should be descriptive of the project, for exampl
 
 Science isn’t reproducible if it isn’t recorded. Traditionally, paper notebooks have been used in the wet lab to record the science performed that day and the outcome. In bioinformatics, science is recorded digitally in a digital notebook. We recommend using GitHub as your digital notebook.
 
+This last step is important as it is a discrete block of notes that is the smallest unit of replicable notes in your notebook. The Why, How and Result can be replicated multiple times if it is the same day in the same folder.
 **GitHub**
 
 GitHub is often thought of as a tool for programmers to version control code but it can also be used to version control text documents as an online notebook. If you don’t have a GitHub account, you can set one up based on this [GitHub Tutorial](https://bioinformaticsworkbook.org/Appendix/github/introgithub.html) and the free version of GitHub now allows for unlimited free repositories. In addition, as a researcher or educator you can request a free upgrade to get access to [unlimited users in private repos.](https://help.github.com/articles/about-github-education-for-educators-and-researchers/).
