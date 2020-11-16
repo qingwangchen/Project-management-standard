@@ -77,4 +77,61 @@ For every step you perform bioinformatically, record it in your markdown file al
 - Code block of the commands you used
 - Description of the result
 
+#### 3. Communication and Discussion
+
+In a group with multiple active projects, it is helpful to have a running dialogue of progress and discussion for each project that can be easily referred to and searched. Many times this comes in the form of email exchanges.
+
+**Slack**
+
+However, a communication platform based around group chats can also be extremely effective when you have a medium sized group (3+) of knowledgeable individuals. We use
+
+[Slack](https://bioinformaticsworkbook.org/Appendix/slack.html) and create a channel for each active project. This group chat (text messaging style) communication generates a transcript of conversations about projects that you can go back and reread. It also permits, text, images and files to be attached during conversation. I strongly encourage you to use it primarily for text communication and discussion and not for file storage.
+
+You can create your own team using [this link: Team signup](https://slack.com/r/0mklqxar-0tnh0jhj) and get a $100 credit if you decide to purchase it beyond the free version. The upgraded version will let you search beyond the 10,000 most recent messages in your group and there is a steep academic discount.
+
+**OneNote**
+
+Microsoft Onenote has the ability to create notebooks, tabs and pages. This can be done on your laptop or tablet using a pen. Both will result in a significant reduction in your paper usage. In addition you will have a well organized record of every in person meeting you have with a student or colleague on a particular project.
+
+- Meetings Notebook
+  - ProjectName Tab
+    - Meeting date1 page
+    - Meeting date2 page
+    - Meeting date3 page
+  - ProjectName2 Tab
+    - Meeting date1 page
+    - Meeting date2 page
+    - Meeting date3 page
+
+Since the Genome Informatics Facility works on multiple projects with multiple PIs, we use the PI name for the project name tab. Within a lab group you may have a folder for every person in your group.
+
+#### 4. To-Do Lists
+
+Use a Kanban board. Kanban boards can be thought of as a 2D To-Do list. Take a whiteboard and section it into 6 columns. (There is a digital equivalent that I will provide you below so don’t actually do this with a real whiteboard)
+
+- New tasks
+- IceBox
+- Backlog
+- In progress
+- In review
+- Completed
+
+Take a post-it note and write down the task you need to do and everything you need to know about how to do it. Repeat for every task you have. Place all post-it notes into the `New tasks` column on your whiteboard.
+
+Now that all the tasks are on the whiteboard, separate out those tasks that are higher priority from those that are lower priority and place them into `In Progress` and `Backlog`, respectively.
+
+The `Icebox` column is for those ideas that are rumbling around in your head that are really cool and you don’t want to forget but don’t have time for right now. Write down that idea/task and put it in the `Icebox` column for when you do have time and get it out of your head.
+
+Now prioritize the tasks in `In Progress` and `Backlog` columns by placing the most important tasks at the top of the column.
+
+When you complete a task move it to `In review` or `Completed` columns.
+
+Cool idea right? But a real-life whiteboard and post-it notes would be very time consuming so we use a digital whiteboard.
+
+[Zenhub](https://www.zenhub.com/pricing) is free for public, personal, and academic repositories and the chrome or firefox plugin can be downloaded [from here](https://www.zenhub.com/extension). It uses the issues in a github repository. So now you can for every project have a Kanban board for all tasks related to that project. If you have more than one project it may be helpful to create a separate private repository just for your todo lists on several projects.
+
+#### 5. Record of time spent
+
+Bioinformatics projects can be time consuming and frustrating with a lot of trial and error. It often happens that at the end of a week, it doesn’t feel like anything was accomplished. Keeping track of your time spent on a daily basis can bring peace of mind. This can be easily accomplished using a Google spreadsheet with days of the month at the top as columns and project names as rows on the left. For each project there should be two rows; hours spent and description of what you did. The column widths can be relatively short since hours spent in a day is not more than 2 digits and the description can just flow into adjacent cells. It is also helpful to see where your time is being spent and better manage your work/life balance and provide a tool for those in your group to manage their work/life balance.
+
 > [Project Management](https://bioinformaticsworkbook.org/projectManagement/Intro_projectManagement)
