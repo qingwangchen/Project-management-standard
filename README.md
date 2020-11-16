@@ -10,3 +10,5 @@ For every step you perform bioinformatically, record it in your markdown file al
 - Description of what you are trying to do and why
 - Code block of the commands you used
 - Description of the result
+
+> https://bioinformaticsworkbook.org/projectManagement/Intro_projectManagement
